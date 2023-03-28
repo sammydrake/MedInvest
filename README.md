@@ -54,16 +54,18 @@ react-icons - icons used in the project
 
 How To Clone and Use The Project
 1. Clone the project by running the command
- git clone https://github.com/zenodavids/Farm-Fund.git
+
+ git clone https://github.com/sammydrake/MedInvest.git
  
  
 2. Install the dependencies by running the command
+
  npm i
  
  
 3. Run the application by running the command
+
  npm run dev
  
  
-4. Connect your wallet to the application
-Make your investment.
+4. Connect your wallet to the application Make your investment.
