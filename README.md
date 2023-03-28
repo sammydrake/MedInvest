@@ -6,6 +6,7 @@ NOTICE
 PLEASE NOTE : WHEN TESTING THIS DAPP WITH IT URL BELOW, PLEASE USE MATIC'S MUMBAI TESTNET. BUT WHEN TESTING THIS DAPP LOCALLY, PLEASE USE THE SAME TOKEN YOU USED IN DEPLOYING THE SMART CONTRACT TO INVEST IN THE FRONTEND. ie; IF YOU USED MATIC TO DEPLOY THE SMART CONTRACT, USE MATIC TO INVEST AND IF YOU USED GOERLI TO DEPLOY THE SMART CONTRACT, USE GOERLI TO INVEST.
 
 GRANDIDA GROUP PROJECT SUBMISSION CONTRIBUTED BY THE FOLLOWING DEVELOPERS
+
 Sampson Okechukwu.
 
 Vincent Neji.
@@ -55,11 +56,14 @@ How To Clone and Use The Project
 1. Clone the project by running the command
  git clone https://github.com/zenodavids/Farm-Fund.git
  
+ 
 2. Install the dependencies by running the command
  npm i
  
+ 
 3. Run the application by running the command
  npm run dev
+ 
  
 4. Connect your wallet to the application
 Make your investment.
