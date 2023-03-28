@@ -6,11 +6,15 @@ NOTICE
 PLEASE NOTE : WHEN TESTING THIS DAPP WITH IT URL BELOW, PLEASE USE MATIC'S MUMBAI TESTNET. BUT WHEN TESTING THIS DAPP LOCALLY, PLEASE USE THE SAME TOKEN YOU USED IN DEPLOYING THE SMART CONTRACT TO INVEST IN THE FRONTEND. ie; IF YOU USED MATIC TO DEPLOY THE SMART CONTRACT, USE MATIC TO INVEST AND IF YOU USED GOERLI TO DEPLOY THE SMART CONTRACT, USE GOERLI TO INVEST.
 
 GRANDIDA GROUP PROJECT SUBMISSION CONTRIBUTED BY THE FOLLOWING DEVELOPERS
-Sampson Okechukwu
-Vincent Neji
-Abeng Epangha
-Adebayo Blessing
-Victor Chibuike
+Sampson Okechukwu.
+
+Vincent Neji.
+
+Abeng Epangha.
+
+Adebayo Blessing.
+
+Victor Chibuike.
 
 THE SMART CONTRACT
 This is a Smart Contract written in Solidity for managing medical investments. The contract allows medical investors to make investments with a specified duration and calculates interest earned on the investment. The contract also provides functions for the medAdministrator to modify investment durations and unlock dates, and for investors to retrieve investment details.
