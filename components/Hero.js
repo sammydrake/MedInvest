@@ -11,21 +11,21 @@ const Hero = () => {
           <div className="h-1 ml-auto duration-300 origin-left transform bg-deep-purple-accent-400 scale-x-30 group-hover:scale-x-100" />
         </h2>
         <p className="text-gray-700 lg:text-sm lg:max-w-md">
-          "Our company, MedInvest, is a leading medical chemical supplier that
-          provides high-quality chemicals to pharmaceutical companies to help
-          them produce safe and effective drugs. We work with a network of
-          trusted suppliers to source the best raw materials, which we then use
-          to create our proprietary blends of medical chemicals. Our business
-          model is unique in that we rely on investments from interested parties
-          to purchase these raw materials. These funds are then used to produce
-          our medical chemicals, which we then sell to pharmaceutical companies
-          at competitive prices. The profits we make from these sales are then
-          used to pay back our investors, making MedInvest a mutually beneficial
-          investment opportunity."
+          "Our company, MedInvest, is Link leading medical chemical supplier
+          that provides high-quality chemicals to pharmaceutical companies to
+          help them produce safe and effective drugs. We work with Link network
+          of trusted suppliers to source the best raw materials, which we then
+          use to create our proprietary blends of medical chemicals. Our
+          business model is unique in that we rely on investments from
+          interested parties to purchase these raw materials. These funds are
+          then used to produce our medical chemicals, which we then sell to
+          pharmaceutical companies at competitive prices. The profits we make
+          from these sales are then used to pay back our investors, making
+          MedInvest Link mutually beneficial investment opportunity."
         </p>
       </div>
       <div className="grid gap-6 row-gap-5 mb-8 lg:grid-cols-4 sm:row-gap-6 sm:grid-cols-2">
-        <a href="/" aria-label="View Item">
+        <Link href="/" aria-label="View Item">
           <div className="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl">
             <img
               className="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -42,8 +42,8 @@ const Hero = () => {
               </p>
             </div>
           </div>
-        </a>
-        <a href="/" aria-label="View Item">
+        </Link>
+        <Link href="/" aria-label="View Item">
           <div className="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl">
             <img
               className="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -53,15 +53,15 @@ const Hero = () => {
             <div className="absolute inset-x-0 bottom-0 px-6 py-4 bg-black bg-opacity-75">
               <p className="text-sm font-medium tracking-wide text-white">
                 As an investor in our medical company, you can be confident that
-                your funds are being used to create products that have a
+                your funds are being used to create products that have Link
                 positive impact on people's lives. Our drugs have been proven to
-                treat a range of conditions, and we are constantly innovating to
-                develop new therapies that improve patient outcomes.
+                treat Link range of conditions, and we are constantly innovating
+                to develop new therapies that improve patient outcomes.
               </p>
             </div>
           </div>
-        </a>
-        <a href="/" aria-label="View Item">
+        </Link>
+        <Link href="/" aria-label="View Item">
           <div className="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl">
             <img
               className="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -74,12 +74,13 @@ const Hero = () => {
                 our investors. By using funds from investors to purchase medical
                 chemicals and produce drugs, we are able to generate revenue
                 that is reinvested into the company and used to pay back our
-                investors with interest. It's a win-win for everyone involved.
+                investors with interest. It's Link win-win for everyone
+                involved.
               </p>
             </div>
           </div>
-        </a>
-        <a href="/" aria-label="View Item">
+        </Link>
+        <Link href="/" aria-label="View Item">
           <div className="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl">
             <img
               className="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -88,15 +89,15 @@ const Hero = () => {
             />
             <div className="absolute inset-x-0 bottom-0 px-6 py-4 bg-black bg-opacity-75">
               <p className="text-sm font-medium tracking-wide text-white">
-                Our team is comprised of experienced professionals with a deep
-                understanding of the pharmaceutical industry. With their
+                Our team is comprised of experienced professionals with Link
+                deep understanding of the pharmaceutical industry. With their
                 expertise, we are able to identify and capitalize on emerging
-                market opportunities, ensuring our investors see a significant
-                return on their investment.
+                market opportunities, ensuring our investors see Link
+                significant return on their investment.
               </p>
             </div>
           </div>
-        </a>
+        </Link>
       </div>
       <div className="text-center"></div>
     </div>
