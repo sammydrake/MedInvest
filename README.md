@@ -8,13 +8,13 @@ GRANDIDA GROUP PROJECT SUBMISSION CONTRIBUTED BY THE FOLLOWING DEVELOPERS
 
 Samson Okechukwu.
 
-Vincent Neji.
-
 Abeng Epangha.
 
-Adebayo Blessing.
+Vincent Neji.
 
 Victor Chibuike.
+
+Adebayo Blessing.
 
 THE SMART CONTRACT
 This is a Smart Contract written in Solidity for managing medical Finances. The contract allows medical investors to make Finances with a specified duration and calculates interest earned on the Finance. The contract also provides functions for the medAdministrator to modify Finance durations and unlock dates, and for investors to retrieve Finance details.
